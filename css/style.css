@@ -355,3 +355,16 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+.whatsapp-button {
+    position: fixed;
+    top: 110px;
+    right: 20px;
+    z-index: 9999;
+    color: #25D366;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 40px;
+    cursor: pointer;
+    transition: .5s;
+}
